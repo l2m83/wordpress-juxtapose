@@ -44,9 +44,12 @@ Having both URLs, i.e.:
 | leftsrc          | none          | relative/absolute URL | Image URL. You can use WordPress media gallery URLs.                                                                                            |
 | leftlabel        | none          | text                  |                                                                                                                                                 |
 | leftcredit       | none          | text                  |                                                                                                                                                 |
+| leftlink         | none          | URL                  |                                                                                                                                                 |
 | rightsrc         | none          | relative/absolute URL | Image URL. You can use WordPress media gallery URLs.                                                                                            |
 | rightlabel       | none          | text                  |                                                                                                                                                 |
 | rightcredit      | none          | text                  |  
+| rightlink        | none          | URL                  |                                                                                                                                                 |
+
 
 ## License
 
